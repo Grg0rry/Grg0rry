@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Data Science and Analytics related**
 
-- 📫 How to reach me **gregorytanyj@gmail.com**
-
 - ⚡ Fun fact **I like rock climbing and bouldering :O**
 
 <h3 align="left">Connect with me:</h3>
