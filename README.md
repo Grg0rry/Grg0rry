@@ -1,9 +1,5 @@
 <h1 align="center">Hello 你好 안녕, I'm Gregory 👋</h1>
-<h3 align="center">A Junior Data Analyst passionated about all things and everything on Data, ML, AI, and even Software Development related.</h3>
-
-- 🎓 Just Graduated from **Sunway University**
-
-- 🤝 I’m looking for help with **Data Science Projects**
+<h3 align="center">AI Engineer passionated about all things and everything on Data, ML, AI, DevOps and even Software Development related.</h3>
 
 - 💬 Ask me about **Data Science and Analytics related**
 
